@@ -23,7 +23,7 @@ public class Produto_02 {
 		this.preco = preco;
 	}
 	
-	public static boolean staticProdutoPredicado(Produto p) {
+	public static boolean staticProdutoPredicado(Produto_08 p) {
 		return p.getPreco() >= 100;
 	}
 	
@@ -31,7 +31,7 @@ public class Produto_02 {
 		return preco >= 100;
 	}
 	
-	public static String atualizaNome(Produto p) {
+	public static String atualizaNome(Produto_08 p) {
 		return p.getNome().toUpperCase();
 	}
 	
