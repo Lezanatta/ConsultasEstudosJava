@@ -10,5 +10,7 @@
 	<classpathentry kind="src" path="ExercicioContratos"/>
 	<classpathentry kind="src" path="ExercicioFuncoes"/>
 	<classpathentry kind="src" path="ExercicioFunctions"/>
+	<classpathentry kind="src" path="Exercicio_Hash"/>
+	<classpathentry kind="src" path="Exercicio_Log"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
