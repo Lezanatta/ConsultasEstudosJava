@@ -17,5 +17,6 @@
 	<classpathentry kind="src" path="Exercicio_Locacao"/>
 	<classpathentry kind="src" path="ExercicioPipeline"/>
 	<classpathentry kind="src" path="ExercicioFuncoes_02"/>
+	<classpathentry kind="src" path="ExercicioFuncionarioPipeline"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
